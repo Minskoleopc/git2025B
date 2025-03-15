@@ -1,3 +1,4 @@
 git init
-git add .
+git add . / git add script2.py
 git commit -m "added"
+git status
