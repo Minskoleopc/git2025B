@@ -8,3 +8,7 @@ git show HEAD
 git checkout HEAD filename - working directory same as last commit(local repo)
 git reset HEAD filename - staging as last commit(local repo)
 git reset 7sh
+
+git branch
+git branch branch_name
+git checkout chinmayA
